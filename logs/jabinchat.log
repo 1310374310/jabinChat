@@ -1,0 +1,19 @@
+INFO 2022/07/24 13:32:08 helper.go:28: GET /thread/read
+INFO 2022/07/24 13:32:16 helper.go:28: GET /thread/read
+INFO 2022/07/24 13:41:39 helper.go:29: GET /logout
+INFO 2022/07/24 13:41:43 helper.go:29: POST /authenticate
+ERROR 2022/07/24 13:41:43 helper.go:34: Cannot find user
+INFO 2022/07/24 13:42:19 helper.go:29: GET /thread/read
+INFO 2022/07/24 14:34:28 helper.go:29: GET /thread/read
+INFO 2022/07/24 14:34:32 helper.go:29: GET /thread/read
+INFO 2022/07/24 14:34:47 helper.go:29: POST /authenticate
+INFO 2022/07/24 14:34:51 helper.go:29: GET /thread/read
+INFO 2022/07/24 14:34:54 helper.go:29: GET /logout
+INFO 2022/07/24 14:34:55 helper.go:29: GET /thread/read
+INFO 2022/07/24 15:00:49 helper.go:37: POST /authenticate
+INFO 2022/07/24 15:00:57 helper.go:37: GET /logout
+INFO 2022/07/24 15:01:28 helper.go:37: POST /authenticate
+INFO 2022/07/24 15:04:03 helper.go:37: POST /authenticate
+INFO 2022/07/24 15:04:37 helper.go:37: GET /thread/read
+INFO 2022/07/24 15:04:51 helper.go:37: GET /logout
+INFO 2022/07/24 15:04:54 helper.go:37: POST /authenticate

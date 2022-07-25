@@ -1,9 +1,5 @@
-
-# 日志文件不提交
-/logs
-
 # 配置文件不提交
 config.json
 
-# 测试文件不提交
-/test
+# vscode 文件不提交
+/vscode
